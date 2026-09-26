@@ -1,6 +1,6 @@
 # CSE Room Availability — Fall 2026
 
-React + TypeScript + Tailwind CSS web app for checking room availability for the Uttara University CSE Fall 2026 day routine.
+React + TypeScript + Tailwind CSS web app for checking room availability.
 
 ## Features
 
