@@ -456,9 +456,9 @@ export const schedule: Record<
         "batch": "60 B"
       },
       "6020 (607)": {
-        "course": "CSE0612405",
-        "teacher": "NSS",
-        "batch": "60 D"
+        "course": "MAT0541201",
+        "teacher": "AMU",
+        "batch": "63 A"
       },
       "6030 (608)": {
         "course": "CSE0612401",
@@ -481,9 +481,9 @@ export const schedule: Record<
         "batch": "60 G"
       },
       "0022 (B106/2)": {
-        "course": "MAT0541201",
-        "teacher": "AMU",
-        "batch": "63 A"
+        "course": "CSE0612405",
+        "teacher": "NSS",
+        "batch": "60 D"
       },
       "0023 (B108)": {
         "course": "PHY0533101",
@@ -523,9 +523,9 @@ export const schedule: Record<
         "batch": "63 A"
       },
       "AI Lab 5210 (514)": {
-        "course": "CSE0612401",
-        "teacher": "HKM",
-        "batch": "60 G"
+        "course": "CSE0613301",
+        "teacher": "HAR",
+        "batch": "62 C"
       },
       "4020 (407)": {
         "course": "CSE0611301",
@@ -593,9 +593,9 @@ export const schedule: Record<
         "batch": "60 D"
       },
       "0022 (B106/2)": {
-        "course": "CSE0613301",
-        "teacher": "HAR",
-        "batch": "62 C"
+        "course": "CSE0612401",
+        "teacher": "HKM",
+        "batch": "60 G"
       },
       "0006": {
         "course": "GED0222101",
@@ -654,14 +654,14 @@ export const schedule: Record<
         "batch": "68 C"
       },
       "Lab 5200 (513)": {
+        "course": "CSE0613301",
+        "teacher": "ALD",
+        "batch": "62 A"
+      },
+      "AI Lab 5210 (514)": {
         "course": "CSE0613101",
         "teacher": "DNS",
         "batch": "68 A"
-      },
-      "AI Lab 5210 (514)": {
-        "course": "CSE0613302",
-        "teacher": "HAR",
-        "batch": "62 C"
       },
       "Lab 5220 (515)": {
         "course": "CSE0613102",
@@ -669,9 +669,9 @@ export const schedule: Record<
         "batch": "68 D"
       },
       "Lab 6150 (612)": {
-        "course": "CSE0613301",
-        "teacher": "ALD",
-        "batch": "62 A"
+        "course": "CSE0613302",
+        "teacher": "HAR",
+        "batch": "62 C"
       },
       "Lab 6180 (613)": {
         "course": "CSE0613102",
@@ -775,10 +775,10 @@ export const schedule: Record<
         "teacher": "NTM",
         "batch": "66 D"
       },
-      "Lab 6150 (612)": {
-        "course": "CSE0612401",
-        "teacher": "DMA",
-        "batch": "60 B"
+      "AI Lab 5210 (514)": {
+        "course": "CSE0611301",
+        "teacher": "MRR",
+        "batch": "61 F"
       },
       "4020 (407)": {
         "course": "CSE0612305",
@@ -811,9 +811,9 @@ export const schedule: Record<
         "batch": "63 C"
       },
       "5230 (516)": {
-        "course": "CSE0611301",
-        "teacher": "MRR",
-        "batch": "61 F"
+        "course": "CSE0612401",
+        "teacher": "DMA",
+        "batch": "60 B"
       },
       "6020 (607)": {
         "course": "PHY0533101",
@@ -948,9 +948,9 @@ export const schedule: Record<
         "batch": "68 C"
       },
       "6170 (614)": {
-        "course": "CSE0613409",
-        "teacher": "MMF",
-        "batch": "59 B"
+        "course": "EEE0713101",
+        "teacher": "MHT",
+        "batch": "66 C"
       },
       "0017 (B103)": {
         "course": "CSE0613103",
@@ -958,9 +958,9 @@ export const schedule: Record<
         "batch": "66 A"
       },
       "0020 (B106/1)": {
-        "course": "EEE0713101",
-        "teacher": "MHT",
-        "batch": "66 C"
+        "course": "CSE0613409",
+        "teacher": "MMF",
+        "batch": "59 B"
       },
       "0022 (B106/2)": {
         "course": "MAT0541202",
@@ -1233,9 +1233,9 @@ export const schedule: Record<
         "batch": "62 D"
       },
       "AI Lab 5210 (514)": {
-        "course": "CSE0612401",
-        "teacher": "MSI",
-        "batch": "60 H"
+        "course": "CSE0613309",
+        "teacher": "MIF",
+        "batch": "61 E"
       },
       "Lab 5220 (515)": {
         "course": "CSE0613310",
@@ -1251,11 +1251,6 @@ export const schedule: Record<
         "course": "CSE0611201",
         "teacher": "FFK",
         "batch": "67 D"
-      },
-      "4020 (407)": {
-        "course": "BUS0411301",
-        "teacher": "MAS",
-        "batch": "60 E"
       },
       "5080 (501)": {
         "course": "MAT0541401",
@@ -1307,6 +1302,11 @@ export const schedule: Record<
         "teacher": "AD",
         "batch": "68 D"
       },
+      "0017 (B103)": {
+        "course": "CSE0612401",
+        "teacher": "MSI",
+        "batch": "60 H"
+      },
       "0020 (B106/1)": {
         "course": "CSE0611101",
         "teacher": "MRA",
@@ -1316,11 +1316,6 @@ export const schedule: Record<
         "course": "BUS0411301",
         "teacher": "MHA",
         "batch": "62 B"
-      },
-      "0023 (B108)": {
-        "course": "CSE0613309",
-        "teacher": "MIF",
-        "batch": "61 E"
       },
       "0024 (B109)": {
         "course": "MAT0541401",
@@ -1644,10 +1639,8 @@ export const schedule: Record<
         "batch": "64 A/64 B"
       }
     },
-    "14:35-15:55": {
-    },
-    "15:55-17:15": {
-    }
+    "14:35-15:55": {},
+    "15:55-17:15": {}
   },
   "Thursday": {
     "08:45-10:05": {
@@ -1789,14 +1782,14 @@ export const schedule: Record<
     },
     "10:05-11:25": {
       "Lab 5200 (513)": {
-        "course": "CSE0612401",
-        "teacher": "AZU",
-        "batch": "60 D"
+        "course": "CSE0613309",
+        "teacher": "MAK",
+        "batch": "61 B"
       },
       "AI Lab 5210 (514)": {
-        "course": "CSE0613312",
-        "teacher": "DMH",
-        "batch": "62 C"
+        "course": "CSE0612306",
+        "teacher": "TZW",
+        "batch": "61 A"
       },
       "Lab 5220 (515)": {
         "course": "CSE0613310",
@@ -1804,9 +1797,9 @@ export const schedule: Record<
         "batch": "61 E"
       },
       "Lab 6150 (612)": {
-        "course": "CSE0612306",
-        "teacher": "TZW",
-        "batch": "61 A"
+        "course": "CSE0613312",
+        "teacher": "DMH",
+        "batch": "62 C"
       },
       "Lab 6180 (613)": {
         "course": "CSE0613210",
@@ -1819,9 +1812,9 @@ export const schedule: Record<
         "batch": "61 F"
       },
       "5070 (502)": {
-        "course": "CSE0613309",
-        "teacher": "MAK",
-        "batch": "61 B"
+        "course": "CSE0612401",
+        "teacher": "AZU",
+        "batch": "60 D"
       },
       "5060 (503)": {
         "course": "MAT0541101",
